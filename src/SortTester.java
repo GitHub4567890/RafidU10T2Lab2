@@ -9,7 +9,7 @@ public class SortTester
     System.out.println("----------- EXPERIMENT A: confirming all three sorts -----------");
     confirmSorts(); // see code below
 */
-/*    
+/*
     // EXPERIMENT B
     System.out.println("\n----------- EXPERIMENT B: printing details for array size of 8 -----------");
     int[] arr2 = {78, 14, 18, -3, -17, 10, 30, 9};
@@ -23,7 +23,7 @@ public class SortTester
     System.out.println("Merge Sort an array with " + arr3.length + " elements\n");
     Sort.mergeSortPrintDetails(arr3);
 */
-/* 
+/*
     // EXPERIMENT D
     System.out.println("\n----------- EXPERIMENT D: printing details for array size of 12 -----------");
     int[] arr4 = {6, 10, 8, 1, 3, 9, 18, 0, 20, 13, 2, 4};
@@ -38,10 +38,10 @@ public class SortTester
     Sort.mergeSortPrintDetails(arr5);
 */
 
-/*
+
     // EXPERIMENT F
     compareSorts();
-*/
+
   }
     
   public static void confirmSorts()
